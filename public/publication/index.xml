@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Craig K. Van Pay</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Thu, 11 Apr 2019 12:11:30 -0500</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Small Talk: A Community Research Collaboration to Increase Parental Provision of Language to Children</title>
+      <link>/publication/small-talk-a-community-research-collaboration-to-increase-parental-provision-of-language-to-children/</link>
+      <pubDate>Thu, 11 Apr 2019 12:11:30 -0500</pubDate>
+      <guid>/publication/small-talk-a-community-research-collaboration-to-increase-parental-provision-of-language-to-children/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Remember by Learning to Speak</title>
+      <link>/publication/learning-to-remember-by-learning-to-speak/</link>
+      <pubDate>Tue, 11 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/learning-to-remember-by-learning-to-speak/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
