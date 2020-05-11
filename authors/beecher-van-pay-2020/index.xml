@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beecher &amp; Van Pay, 2020 | Craig K. Van Pay</title>
+    <link>/authors/beecher-van-pay-2020/</link>
+      <atom:link href="/authors/beecher-van-pay-2020/index.xml" rel="self" type="application/rss+xml" />
+    <description>Beecher &amp; Van Pay, 2020</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 11 May 2020 12:11:30 -0500</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Beecher &amp; Van Pay, 2020</title>
+      <link>/authors/beecher-van-pay-2020/</link>
+    </image>
+    
+    <item>
+      <title>Investigation of the effectiveness of a community-based parent education program to engage families in increasing language interactions with their children</title>
+      <link>/publication/beecher_vanpay_2020/</link>
+      <pubDate>Mon, 11 May 2020 12:11:30 -0500</pubDate>
+      <guid>/publication/beecher_vanpay_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

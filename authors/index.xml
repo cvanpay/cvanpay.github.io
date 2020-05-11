@@ -5,45 +5,12 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Tue, 21 Apr 2020 12:11:30 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 11 May 2020 12:11:30 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
-    
-    <item>
-      <title>Van Pay, Choi, &amp; Ryu, 2020</title>
-      <link>/authors/van-pay-choi-ryu-2020/</link>
-      <pubDate>Tue, 21 Apr 2020 12:11:30 -0500</pubDate>
-      <guid>/authors/van-pay-choi-ryu-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beecher &amp; Van Pay, 2019</title>
-      <link>/authors/beecher-van-pay-2019/</link>
-      <pubDate>Thu, 11 Apr 2019 12:11:30 -0500</pubDate>
-      <guid>/authors/beecher-van-pay-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Craig is a PhD Student of Literacy Education &amp;amp; Human Development and Family Studies at Iowa State University. He works under the mentorship of &lt;a href=&#34;https://www.education.iastate.edu/directory/profile.php?u=cbeecher&amp;embedded=true&#34;&gt;Dr. Connie Beecher&lt;/a&gt; and &lt;a href=&#34;https://www.hdfs.hs.iastate.edu/directory/profile.php?u=jychoi&amp;embedded=true&#34;&gt;Dr. Ji Young Choi&lt;/a&gt; investigating the language and literacy development of young children in the home and preschool contexts. Craig has worked on several evaluations, investigating parent-education programs, Iowa&amp;rsquo;s Statewide Voluntary Preschool Program, and the implementation of Iowa Project LAUNCH in Head Start. He is currently working on examining early language intervention effects on children&amp;rsquo;s language outcomes, preschool language environments for Dual Language Learners, and preschool teachers&amp;rsquo; beliefs on teaching practices.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ettlinger, Lanter, &amp; Van Pay, 2014</title>
-      <link>/authors/ettlinger-lanter-van-pay-2014/</link>
-      <pubDate>Tue, 11 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/ettlinger-lanter-van-pay-2014/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

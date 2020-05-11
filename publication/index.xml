@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Tue, 21 Apr 2020 12:11:30 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 11 May 2020 12:11:30 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Investigation of the effectiveness of a community-based parent education program to engage families in increasing language interactions with their children</title>
+      <link>/publication/beecher_vanpay_2020/</link>
+      <pubDate>Mon, 11 May 2020 12:11:30 -0500</pubDate>
+      <guid>/publication/beecher_vanpay_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Language Experience of Monolinguals and Dual Language Learners During Preschool Classroom Activities</title>
