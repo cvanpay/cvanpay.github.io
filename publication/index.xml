@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 11 May 2020 12:11:30 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 18 Sep 2020 12:11:30 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Listening to Head Start teachers: Teacher beliefs, practices, and needs for educating dual language learners</title>
+      <link>/publication/choi_et_al_2020/</link>
+      <pubDate>Fri, 18 Sep 2020 12:11:30 -0500</pubDate>
+      <guid>/publication/choi_et_al_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Investigation of the effectiveness of a community-based parent education program to engage families in increasing language interactions with their children</title>
